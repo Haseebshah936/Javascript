@@ -1,0 +1,5 @@
+Javascript tooling is only usefull if you are building front end applications.
+Transpiler is short for translator and compiler babel is a transpiler used to convert moder javascript ES6 to the javascript version understood by all browers (ES5).
+Babel have presets for all the modren features introduced in ES6 to convert them to there equivilant of ES5.
+
+Bundler webpack is a bundler it is used to bundle all the javascript code into one javascript file or any other programing/styling language used like CSS, Typescript, SCSS etc other bundlers are snowpack, parcel etc.
